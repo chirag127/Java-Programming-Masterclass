@@ -13,7 +13,6 @@ because it is not as precise as double.
 The following code shows how to declare and initialize variables of the float and double types:
 */
 
-
 class FloatandDoublePrimitives {
     public static void main(String[] args) {
         float f = 1.0f;

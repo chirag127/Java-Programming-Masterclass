@@ -58,8 +58,6 @@ long	64	-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 The following code shows how to declare and initialize variables of the primitive types using underscores in the literals:
 */
 
-
-
 class PrimitiveTypes {
     public static void main(String[] args) {
         byte minByteValue = Byte.MIN_VALUE;
@@ -86,13 +84,9 @@ class PrimitiveTypes {
         byte myNewByteValue = (byte) (minByteValue / 2);
         short myNewShortValue = (short) (minShortValue / 2);
 
-
         System.out.println("myTotal = " + myTotal);
         System.out.println("myNewByteValue = " + myNewByteValue);
         System.out.println("myNewShortValue = " + myNewShortValue);
-
-
-
 
     }
 }

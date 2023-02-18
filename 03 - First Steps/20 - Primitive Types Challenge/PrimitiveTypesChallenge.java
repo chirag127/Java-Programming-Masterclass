@@ -28,7 +28,6 @@ the count, i.e. 1, 2, 3, 4, etc.
 
 import java.util.Scanner;
 
-
 class PrimitiveTypesChallenge {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -16,6 +16,5 @@ class StartingoutwithExpressions {
 
         System.out.println(mySecondNumber);
 
-
     }
 }

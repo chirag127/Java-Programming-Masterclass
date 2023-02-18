@@ -11,19 +11,20 @@ and the second parameter inches is >= 0 and <= 12.
 
 */
 
-
 class FloatingPointPrecisionandaChallenge {
     public static void main(String args[]) {
         // Casting a double to an int
         double myDouble = 9.78;
         int myInt = (int) myDouble; // Manual casting: double to int
-        System.out.println(myDouble);   // Outputs 9.78
-        System.out.println(myInt);      // Outputs 9
+        System.out.println(myDouble); // Outputs 9.78
+        System.out.println(myInt); // Outputs 9
         // Casting a double to an int using the Math.round() method
         double mySecondNumber = 9.78;
         int mySecondInt = (int) Math.round(mySecondNumber);
 
-        System.out.println(mySecondNumber);   // Outputs 9.78
+        System.out.println(mySecondInt); // Outputs 10
+
+        System.out.println(mySecondNumber); // Outputs 9.78
 
         // casting large numbers to a byte
         byte myByte = 127;
@@ -68,8 +69,6 @@ class FloatingPointPrecisionandaChallenge {
         System.out.println(myDoubleForString4);
 
         // casting a String to a double using the parseDouble() method
-
-
 
         System.out.println(Double.parseDouble(mySecondString2));
 

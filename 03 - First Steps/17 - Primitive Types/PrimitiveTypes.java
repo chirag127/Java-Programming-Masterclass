@@ -77,8 +77,6 @@ minByteValue = -128
 
 */
 
-
-
 class PrimitiveTypes {
     public static void main(String args[]) {
         byte b = 1;
@@ -110,12 +108,6 @@ class PrimitiveTypes {
         System.out.println("range of int = " + (maxIntValue - minIntValue));
 
         System.out.println("maxIntValue + 1 = " + (maxIntValue + 1));
-
-
-
-
-
-
 
     }
 }
