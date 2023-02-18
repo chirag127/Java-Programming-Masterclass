@@ -1,2 +1,13 @@
 /*
 Installing IntelliJ IDEA for Windows
+
+click on the link below to download the installer
+click on the installer to run it
+click next
+click next
+click next
+
+click install
+click finish
+
+*/
