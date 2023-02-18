@@ -48,6 +48,6 @@ If you have any questions or comments about this repository, please feel free to
 
 ## Acknowledgments
 
-Tim Buchalka, for creating such a comprehensive and engaging course
-The Udemy platform, for providing an accessible and user-friendly platform for online learning
-The Java community, for sharing their knowledge and resources to make Java programming accessible to learners of all levels.
+* Tim Buchalka, for creating such a comprehensive and engaging course
+* The Udemy platform, for providing an accessible and user-friendly platform for online learning
+* The Java community, for sharing their knowledge and resources to make Java programming accessible to learners of all levels.
