@@ -7,6 +7,24 @@ variables must be declared before they can be used.
 variables must be assigned a value before they can be used.
 variables can be assigned a value using the assignment operator (=).
 
+
+Operators
+
+operators are used to perform operations on
+variables and values.
+
+the most common operators are:
+
++	addition
+-	subtraction
+*	multiplication
+/	division
+%	modulus (division remainder)
+=	assignment
+==	equality
+
+
+
 */
 
 class Variables {

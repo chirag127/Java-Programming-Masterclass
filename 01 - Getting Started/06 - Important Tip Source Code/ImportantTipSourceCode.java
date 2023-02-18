@@ -1,3 +1,7 @@
 /*
 Important Tip Source Code
 
+it mentions how to downlod the source code
+for the course
+
+*/
