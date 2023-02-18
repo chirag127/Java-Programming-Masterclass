@@ -1,0 +1,3 @@
+/*
+HashSet equals and hashCode
+

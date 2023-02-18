@@ -1,0 +1,3 @@
+/*
+Structuring the new project
+

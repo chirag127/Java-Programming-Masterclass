@@ -1,0 +1,525 @@
+001 - Introduction To The Course
+002 - Remaster in Progress
+003 - Video Quality
+005 - How to Get Help
+006 - Important Tip Source Code
+007 - Biggest Tip to Succeed as a Java Programmer
+008 - Software Tools Introduction
+009 - Which Version of Java
+010 - Install JDK 17 for Windows
+011 - Install JDK 11 for Mac
+012 - Install JDK 11 for Linux
+013 - Confirming installation and intro to JShell
+014 - Hello World
+015 - Variables
+016 - Starting out with Expressions
+017 - Primitive Types
+018 - byte short long and width
+019 - Casting in Java
+020 - Primitive Types Challenge
+021 - Float and Double Primitives
+022 - Floating Point Precision and a Challenge
+023 - The char and boolean Primitive Data Types
+024 - Primitive Types Recap and the String Data Type
+025 - Operators Operands and Expressions
+026 - Abbreviating Operators
+027 - From JShell to an IDE
+028 - Installing IntelliJ IDEA for Windows
+029 - Installing IntelliJ IDEA for Mac
+030 - Installing IntelliJ IDEA for Linux
+031 - Configuring IntelliJ IDEA WINDOWS MAC and LINUX
+032 - Hello World in IntelliJ
+033 - Hello World in IntelliJ
+034 - ifthen Statement
+035 - Logical AND Operator
+036 - Logical OR Operator
+037 - Assignment Operator VS Equals to Operator
+038 - Ternary Operator
+039 - Operator Precedence and Operator Challenge
+040 - Introduction
+041 - Keywords and Expressions
+042 - Statements Whitespace and Indentation Code Organization
+043 - Code Blocks And The If Then Else Control Statement
+044 - if then else Challenge
+045 - Methods in Java
+046 - More on Methods
+047 - Methods Recap
+048 - Method Challenge
+049 - Code Comparison in IntelliJ
+050 - Coding Exercises
+051 - Method Overloading
+052 - Method Overloading Challenge
+053 - Seconds And Minutes Challenge
+054 - Bonus Challenge Solution
+055 - Introduction
+056 - The switch statement
+057 - More switch statement
+058 - Traditional Switch Challenge
+059 - A Switch Expression Challenge
+060 - The for Statement
+061 - The for Statement Challenge Exercise
+062 - Sum 3 and 5 Challenge And Using IntelliJs Debugger
+063 - For Loop Recap
+064 - The while and do while statements
+065 - The while Loop Challenge Exercise
+066 - Digit Sum Challenge
+067 - While Loop and Do While Recap
+068 - Local Variables and Scope
+069 - The class the object static instance fields and methods
+070 - Parsing Values and Reading Input using Systemconsole
+071 - Exception Handling and Introduction to Scanner
+072 - Reading Input with Scanner
+073 - Reading User Input Challenge
+074 - Min and Max Challenge
+075 - Introduction
+076 - Introduction to Classes and Objects
+077 - Introduction to Classes Using Getter Methods
+078 - Classes Using Setters and Creating Objects
+079 - Classes Challenge Exercise
+080 - Constructors Part 1
+081 - Constructors Part 2
+082 - Constructor Challenge Exercise
+083 - Reference vs Object vs Instance vs Class
+084 - Static vs Instance Variables
+085 - Static vs Instance Methods
+086 - The POJO
+087 - Javas Implicit POJO Type The Record
+088 - Inheritance Part 1
+089 - Inheritance Part 2
+090 - Inheritance Part 3
+091 - What is javalangObject
+092 - Inheritance Challenge Part 1
+093 - Inheritance Challenge Part 2
+094 - this vs super
+095 - Method Overloading vs Overriding Recap
+096 - The Text Block and other Formatting Options
+097 - Another Look at the String
+098 - String Manipulation Methods
+099 - The StringBuilder class
+100 - Introduction
+101 - Composition Part 1
+102 - Composition Part 2
+103 - Composition Challenge
+104 - Encapsulation Part 1
+105 - Encapsulation Part 2
+106 - Encapsulation Challenge
+107 - Polymorphism Part 1
+108 - Polymorphism Part 2
+109 - Casting with classes and using Object and var references
+110 - Testing the runtime type using the instanceof operator
+111 - Polymorphism Challenge Exercise
+112 - Polymorphism Challenge Exercise Part 2
+113 - OOP Master Challenge Exercise Part 1
+114 - OOP Master Challenge Exercise Part 2
+115 - OOP Master Challenge Exercise The Bonus
+116 - Organizing Java Classes Packages and Import Statements
+117 - Introduction
+118 - Arrays Part 1
+119 - Arrays Part 2
+120 - Using javautilArrays sort fill copyOf
+121 - Finding a Match Using a Binary Search and testing equality of arrays
+122 - Arrays Challenge Exercise
+123 - Arrays Recap
+124 - References Types vs Value Types
+125 - Variable Arguments Varargs
+126 - Minimum Element Challenge
+127 - Reverse Array Challenge
+128 - TwoDimensional Arrays
+129 - Multidimensional Arrays
+130 - Introduction
+131 - List and ArrayList Part 1
+132 - ArrayList Part 2
+133 - ArrayList Part 3
+134 - Arrays vs ArrayLists
+135 - ArrayList Challenge Part 1
+136 - Arrays ArrayList LinkedList Memory and Big O Notation
+137 - LinkedList Part 1
+138 - LinkedList Part 2
+139 - Iterators
+140 - LinkedList Challenge
+141 - LinkedList Challenge Continued
+142 - Introduction to Autoboxing and Unboxing
+143 - Autoboxing and Unboxing related to Arrays Lists
+144 - Autoboxing Unboxing Challenge
+145 - Autoboxing Unboxing Challenge
+146 - Introduction to the enum type
+147 - The enum type continued with the switch statement
+148 - Interfaces
+149 - Interfaces Part 2
+150 - Interfaces Challenge Part 1
+151 - Interfaces Challenge Part 2
+152 - Inner classes Part 1
+153 - Inner Classes Part 2
+154 - Inner Classes Challenge
+155 - Abstract Classes Part 1
+156 - Abstract Classes Part 2
+157 - Interface vs Abstract Class
+158 - Abstract Class Challenge Part 1
+159 - Abstract Class Challenge Part 2
+160 - Abstract Class Challenge Part 3 includes recursion
+161 - Generics Introduction
+162 - Our Generics Class
+163 - Our Generics Class Part 2
+164 - Our Generics Class Part 3
+165 - Generics Challenge
+166 - Naming Conventions
+167 - Packages
+168 - Packages Part 2
+169 - Packages Part 3
+170 - Packages Challenge Exercise
+171 - Scope
+172 - Scope Part 2 and Visibility
+173 - Scope Challenge Exercise
+174 - Access Modifiers
+175 - The static statement
+176 - The final statement
+177 - Final Part 2 and Static Initializers
+178 - Collections Overview
+179 - Binary Search
+180 - Collections List Methods
+181 - Comparable and Comparator
+182 - Maps
+183 - Map Continued and Adventure Game
+184 - Adding Exits to the Adventure game
+185 - Adventure Game challenge
+186 - Immutable Classes
+187 - Immutable Class Challenge
+188 - Sets HashSet
+189 - HashSet equals and hashCode
+190 - Finish off equals and hashcode
+191 - Potential issue with equals and subclassing
+192 - Sets Symmetric Asymmetric
+193 - Finishing Off Sets
+194 - Sets Challenge Part 1
+195 - Sets Challenge Part 2
+196 - Sets Challenge Part 3
+197 - Sorted Collections
+198 - StockList Class With Maps
+199 - Add a Basket
+200 - TreeMap and Unmodifiable Maps
+201 - Challenge Part 1
+202 - Challenge Part 2
+203 - Challenge Part 3
+204 - Challenge Part 4 Final
+205 - JDK11 Global Library Configuration
+206 - Create Your First JavaFX Project
+207 - JavaFX Overview
+208 - JavaFX Hello World Program
+209 - GridPane Layout
+210 - HBox Layout
+211 - BorderPane Layout
+212 - Other Layouts
+213 - Controls
+214 - RadioButton and CheckBox
+215 - ComboBox and ChoiceBox
+216 - Slider Spinner ColorPicker DatePicker Controls
+217 - TitledPane
+218 - Events and Event Handlers
+219 - Events Continued
+220 - UI Thread
+221 - Threads and Runnable
+222 - Setup Sample Todo List Application
+223 - Base Interface
+224 - Add Change Listener
+225 - Formatting Dates
+226 - Singletons
+227 - Load and Save ToDo Items fromto Disk
+228 - Add DialogPane
+229 - Show Dialog and Add Controller Code
+230 - Bug Fix and Update List View
+231 - Data Binding and Observable
+232 - Cell Factories
+233 - Context Menu
+234 - KeyEvents and Toolbars
+235 - SortedList
+236 - FilteredList
+237 - CSS With JavaFX
+238 - Transforming Nodes and Choosers
+239 - More on Choosers and Web Pages
+240 - SceneBuilder
+241 - Installing SceneBuilder for Windows
+242 - Installing SceneBuilder for Mac
+243 - Overview of SceneBuilder
+244 - Building a UI with SceneBuilder
+245 - More on SceneBuilder
+246 - JavaFX Challenge
+247 - JavaFX Challenge Part 2
+248 - JavaFX Challenge Part 3
+249 - JavaFX Challenge Part 4
+250 - JavaFX Challenge Wrap up
+251 - Exceptions
+252 - Stack Trace and Call Stack
+253 - Catching and throwing Exceptions
+254 - Multi Catch Exceptions
+255 - Introduction to IO
+256 - Writing content FileWriter class and Finally block
+257 - Try with Resources
+258 - FileReader and Closeable
+259 - BufferedReader
+260 - Load Big Location and Exits Files
+261 - Challenge
+262 - Buffered Writer and Challenge
+263 - Byte Streams
+264 - Reading Binary Data and End of File Exceptions
+265 - Object Input Output including Serialization
+266 - Finish Object IO and RandomAccessFile class
+267 - Create Random Access File
+268 - Update Static Initializer Block With Random File Access
+269 - Update Adventure Game to Read Random Access File
+270 - Java NIO
+271 - Writing Objects With Java NIO
+272 - Reading and Writing with Java NIO
+273 - Writing Binary Files with Java NIO
+274 - Reading Files with NIO
+275 - Absolute and Relative Reads
+276 - Chained Put Methods
+277 - Writing Sequentially
+278 - FileChannel to Copy Files and Pipes with Threads
+279 - Filesystem
+280 - More on Paths
+281 - Exists and CopyFile
+282 - Move Rename and Delete
+283 - File Attributes
+284 - Read Existing Directory Contents
+285 - Separators Temp Files and File Stores
+286 - Walk File Tree
+287 - Copy Entire Tree
+288 - Mapping IO and NIO Methods
+289 - Concurrency and Threads Introduction
+290 - Threads
+291 - Runnable and Thread
+292 - Interrupt and Join
+293 - Multiple Threads
+294 - Thread Variables
+295 - Synchronisation
+296 - Producer and Consumer
+297 - Deadlocks wait notify and notifyAll methods
+298 - The Java Util Concurrent package
+299 - Thread Interference
+300 - Reentrant Lock and Unlock
+301 - Using Try Finally With Threads
+302 - Thread Pools
+303 - ArrayBlockingQueue Class
+304 - Deadlocks
+305 - More on Deadlocks
+306 - Thread Starvation
+307 - Fair Locks and Live Locks
+308 - Live Lock Example and Slipped Conditions
+309 - Other Thread Issues
+310 - JavaFX Background Tasks
+311 - Data Binding
+312 - Service
+313 - Challenge 1 and 2
+314 - Challenge 34 and 5
+315 - Challenge 6 and 7
+316 - Challenge 8
+317 - Challenge 9
+318 - Lambda Expressions Introduction
+319 - Lambda Expressions Continued
+320 - Lambda Expressions Nested Blocks
+321 - Scope and Functional Programming
+322 - Functional Interfaces Predicates
+323 - More on Predicates Suppliers
+324 - Functions
+325 - Chaining javautilfunction Functions
+326 - Streams
+327 - Streams Intermediate and Terminal Operations
+328 - Streams Flatmap Lambda Best Practices
+329 - Lambda Challenge Part 1
+330 - Lambda Challenge Part 2
+331 - Regular Expressions Introduction
+332 - Character classes and Boundary Matchers
+333 - Quantifiers and the Pattern and Matcher classes
+334 - Matcher find and Group Methods
+335 - And Or Not
+336 - Regular Expressions Challenge Part 1
+337 - Regular Expressions Challenge Part 2
+338 - Regular Expressions Challenge Part 3
+339 - Introduction to Debugging
+340 - More on Debugging
+341 - Field Watch Points
+342 - Advanced Debugging
+343 - Introduction to Unit Testing with JUnit
+344 - Asserts in Junit
+345 - More Asserts and Exception Handling
+346 - Parameterized Testing
+347 - JUnit Challenge 1 and 2
+348 - JUnit Challenges 3 to 7
+349 - Junit Challenges 8 to 10
+350 - Section Introduction
+351 - Database Terminology
+352 - Install and Setup SQLite for Windows
+353 - Install and Setup SQLite for Mac
+354 - Install and Setup SQLite for Linux
+355 - Introduction to SQLite
+356 - More with SQLite
+357 - Querying Data With SQL
+358 - SQL Order by and Joins
+359 - More Complex Joins
+360 - Wildcards in Queries and Views
+361 - Housekeeping and Final SQL Challenge
+362 - JDBC and SQLite GUI Browser
+363 - Creating Databases With JDBC in Java
+364 - JDBC Insert Update Delete
+365 - executeQuery and using Constants
+366 - The Music SQLite Database
+367 - Write Java Query for Artists
+368 - Executing SQL in DB Browser
+369 - Query Albums by Artist Method
+370 - Query Artists for Song method
+371 - Result Set Meta Data
+372 - Functions and Views
+373 - Write the Method to Query View
+374 - SQL Injection Attacks and Prepared Statements
+375 - Transactions
+376 - Inserting Records With JDBC
+377 - Insert Albums Artists and Songs
+378 - Test Insert JDBC Code
+379 - JDBC with a GUI Program
+380 - Add Artists
+381 - Fix Artist and Preload Records
+382 - Implement Artist Query
+383 - Add ProgressBar
+384 - Handling Updates
+385 - Networking Overview
+386 - First Client and Server Apps
+387 - Multi Threaded Server
+388 - MultiThreading and Timeouts
+389 - UDP Server and Client
+390 - High Level APIS
+391 - URL Connections and Input Stream Reader
+392 - HTTPUrlConnection
+393 - Alternatives to HTTPUrlConnection
+394 - Introduction to Modules
+395 - Module Declarations and Statements
+396 - Module Types
+397 - Project Setup and Test
+398 - Structuring the new project
+399 - Creating the first module Common
+400 - Creating the Module Descriptor file
+401 - Creating the 2nd module Database
+402 - Challenge Create the final module UI
+403 - Transitive Dependencies
+404 - Introduction To The Course
+405 - Remaster in Progress
+406 - Video Quality
+407 - Subtitles
+408 - How to Get Help
+409 - Important Tip Source Code
+410 - Biggest Tip to Succeed as a Java Programmer
+412 - Software Tools Introduction
+413 - Java Development Kit Installation Overview
+414 - Install JDK 11 for Windows
+415 - Installing Intellij IDEA for Windows
+417 - Install JDK 11 for Mac
+418 - Installing Intellij IDEA for Mac
+419 - Install JDK 11 for Linux
+420 - Installing Intellij IDEA for Linux
+421 - Configuring IntelliJ IDEA WINDOWS MAC and LINUX
+422 - Introduction
+423 - Hello World Project
+424 - Defining the Main Method
+425 - Hello World Challenge and Common Errors
+426 - Variables
+427 - Starting out with Expressions
+428 - Primitive Types
+429 - byte short long and width
+430 - Casting in Java
+431 - Primitive Types Challenge
+432 - float and double Primitive Types
+433 - Floating Point Precision and a Challenge
+434 - The char and boolean Primitive Data Types
+435 - Primitive Types Recap and the String Data Type
+436 - Operators Operands and Expressions
+437 - Abbreviating Operators
+438 - ifthen Statement
+439 - Logical and Operator
+440 - Logical OR Operator
+441 - Assignment Operator VS Equals to Operator
+442 - Ternary Operator
+443 - Operator Precedence and Operator Challenge
+444 - First Steps Summary
+445 - End of Remaster
+446 - Introduction
+447 - Keywords And Expressions
+448 - Statements Whitespace and Indentation Code Organization
+449 - Code Blocks And The If Then Else Control Statements
+450 - if then else Recap
+451 - Methods In Java
+452 - More On Methods And A Challenge
+453 - Method Challenge Final Code Changes
+454 - DiffMerge Tool Introduction
+455 - Install DiffMerge
+456 - Using DiffMerge
+457 - Coding Exercises
+458 - Coding Exercises Example Part 1
+459 - Coding Exercises Example Part 2
+460 - Coding Exercises Example Part 3
+461 - Method Overloading
+462 - Method Overloading Recap
+463 - Seconds and Minutes Challenge
+464 - Bonus Challenge Solution
+465 - Introduction
+466 - The switch statement Challenge Exercise
+467 - Day of the Week Challenge
+468 - The for Statement Challenge Exercise
+469 - For Loop Recap
+470 - Sum 3 and 5 Challenge
+471 - The while and do while statements Challenge Exercise
+472 - While and Do While Recap
+473 - Digit Sum Challenge
+474 - Parsing Values from a String
+475 - Reading User Input
+476 - Problems and Solutions
+477 - Reading User Input Challenge
+478 - Min and Max Challenge
+479 - Introduction
+480 - Classes Part 1
+481 - Classes Part 2
+482 - Constructors Part 1 Challenge Exercise
+483 - Constructors Part 2 Challenge Exercise
+484 - Inheritance Part 1
+485 - Inheritance Part 2
+486 - Reference vs Object vs Instance vs Class
+487 - this vs super
+488 - Method Overloading vs Overriding Recap
+489 - Static vs Instance Methods
+490 - Static vs Instance Variables
+491 - Inheritance Challenge Part 1 Challenge Exercise
+492 - Inheritance Challenge Part 2
+493 - Introduction
+494 - Composition
+495 - Composition Part 2 Challenge Exercise
+496 - Encapsulation
+497 - Encapsulation Challenge Exercise
+498 - Polymorphism
+499 - Polymorphism Challenge Exercise
+500 - OOP Master Challenge Exercise
+501 - OOP Challenge Solution
+502 - Arrays
+503 - Arrays Challenge Exercise
+504 - Arrays Recap
+505 - References Types vs Value Types
+506 - Minimum Element Challenge
+507 - Reverse Array Challenge
+508 - List and ArrayList Part 1
+509 - ArrayList Part 2
+510 - ArrayList Part 3
+511 - ArrayList Challenge Part 1
+512 - ArrayList Challenge Part 2
+513 - ArrayList Challenge Part 3
+514 - Bug Fix for ArrayList Challenge
+515 - Autoboxing and Unboxing
+516 - Autoboxing Unboxing Challenge Exercise Part 1
+517 - Autoboxing Unboxing Challenge Exercise Part 2
+518 - Autoboxing Unboxing Challenge Exercise Part 3
+519 - LinkedList Part 1
+520 - LinkedList Part 2
+521 - LinkedList Part 3
+522 - LinkedList Challenge Part 1
+523 - Bug Fix for Track 1 Error
+524 - LinkedList Challenge Part 2
+525 - LinkedList Challenge Part 3 Final video
+526 - Old JavaFX Introduction Video for JDK 8
+527 - Old JavaFX Code Vs FXml Video for JDK 8
+529 - Bonus Lecture and Information
