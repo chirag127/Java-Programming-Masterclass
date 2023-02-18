@@ -47,35 +47,24 @@ class CastinginJava {
         System.out.println(myDouble);   // Outputs 9.78
         System.out.println(myInt);      // Outputs 9
         // Casting a double to an int using the Math.round() method
-        double myDouble = 9.78;
-        int myInt = (int) Math.round(myDouble);
-        System.out.println(myDouble);   // Outputs 9.78
-        System.out.println(myInt);      // Outputs 10
-        // Casting an int to a double
-        int myInt = 9;
-        double myDouble = myInt; // Automatic casting: int to double
-        System.out.println(myInt);      // Outputs 9
-        System.out.println(myDouble);   // Outputs 9.0
-        // Casting a String to an int
-        String myString = "9";
-        int myInt = Integer.parseInt(myString); // Casting String to int
-        System.out.println(myString);   // Outputs 9
-        System.out.println(myInt);      // Outputs 9
-        // Casting a String to a double
-        String myString = "9.78";
-        double myDouble = Double.parseDouble(myString); // Casting String to double
-        System.out.println(myString);   // Outputs 9.78
-        System.out.println(myDouble);   // Outputs 9.78
-        // Casting an int to a String
-        int myInt = 9;
-        String myString = Integer.toString(myInt); // Casting int to String
-        System.out.println(myInt);      // Outputs 9
-        System.out.println(myString);   // Outputs 9
-        // Casting a double to a String
-        double myDouble = 9.78;
-        String myString = Double.toString(myDouble); // Casting double to String
-        System.out.println(myDouble);   // Outputs 9.78
-        System.out.println(myString);   // Outputs 9.78
-    }
-}
+        double mySecondNumber = 9.78;
+        int mySecondInt = (int) Math.round(mySecondNumber);
 
+        System.out.println(mySecondNumber);   // Outputs 9.78
+
+        // casting large numbers to a byte
+        byte myByte = 127;
+        int myIntForByte = 10000;
+        byte myNewByte = (byte) (myByte + myIntForByte);
+        System.out.println(myNewByte);
+
+        // casting a String to an int
+        String myString = "9";
+        int myIntForString = Integer.parseInt(myString); // Casting String to int
+
+        System.out.println(myIntForString);
+
+
+    }
+
+}
