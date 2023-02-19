@@ -1,28 +1,27 @@
 /*
-More on Methods
+ * Write a method called displayHighScorePosition
+ * it should a players name as a parameter, and a 2nd parameter as a position in the high score table
+ * You should display the players name along with a message like " managed to get into position " and the
+ * position they got and a further message " on the high score table".
+ *
+ * Create a 2nd method called calculateHighScorePosition
+ * it should be sent one argument only, the player score
+ * it should return an int
+ *
+ * the return data should be
+ * 1 if the score is > 1000
+ * 2 if the score is > 500 and < 1000
+ * 3 if the score is > 100 and < 500
+ * 4 in all other cases
+ *
+ * call both methods and display the results of the following
+ * a score of 1500, 900, 400, and 50
+ *
+ *
+ */
 
-what is returned from a method is called a return value.
+public class MethodChallenge {
 
-a method can return a value.
-
-a method can return a value of any type.
-
-most common return types are int, double, boolean, and String.
-
-place of return statement is important.
-it must be the last statement in the method.
-
-a method can return multiple values.
-
-a method can return no value.
-
-a method can return no value by using the void keyword.
-
-- void is a keyword that means no value.
-
-*/
-
-public class MoreonMethods {
     public static void main(String[] args) {
         int highScorePosition = calculateHighScorePosition(1500);
         displayHighScorePosition("Tim", highScorePosition);
@@ -52,4 +51,7 @@ public class MoreonMethods {
 
         return 4;
     }
+
 }
+
+

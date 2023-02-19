@@ -1,3 +1,6 @@
 /*
 Code Comparison in IntelliJ
 
+IntelliJ has a built in code comparison tool. This tool can be used to compare two files or two sections of code.
+
+*/

@@ -28,11 +28,6 @@ public class CodeBlocksAndTheIfThenElseControlStatement {
             System.out.println("Your final score was " + finalScore);
         }
 
-        // print out a second score on the screen with the following
-        // score set to 10000
-        // levelCompleted set to 8
-        // bonus set to 200
-        // but make sure the first printout above still displays as well
 
         score = 10000;
         levelCompleted = 8;
