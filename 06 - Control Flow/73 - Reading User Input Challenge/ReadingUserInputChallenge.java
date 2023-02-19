@@ -11,9 +11,6 @@ import java.util.Scanner;
 public class ReadingUserInputChallenge {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int min = 0;
-        int max = 0;
-        boolean first = true;
 
         while (true) {
             System.out.print("Enter number: ");
