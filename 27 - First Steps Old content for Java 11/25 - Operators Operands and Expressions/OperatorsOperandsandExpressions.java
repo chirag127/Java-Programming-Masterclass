@@ -1,3 +1,0 @@
-/*
-Operators Operands and Expressions
-

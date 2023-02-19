@@ -1,3 +1,0 @@
-/*
-Abbreviating Operators
-

@@ -1,3 +1,0 @@
-/*
-Defining the Main Method
-

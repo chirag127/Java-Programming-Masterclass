@@ -1,3 +1,0 @@
-/*
-LinkedList Part 1
-

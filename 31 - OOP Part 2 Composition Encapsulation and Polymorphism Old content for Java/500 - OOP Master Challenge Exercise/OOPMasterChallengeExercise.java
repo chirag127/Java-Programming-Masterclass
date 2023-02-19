@@ -1,3 +1,0 @@
-/*
-OOP Master Challenge Exercise
-

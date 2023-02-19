@@ -1,3 +1,0 @@
-/*
-Digit Sum Challenge
-

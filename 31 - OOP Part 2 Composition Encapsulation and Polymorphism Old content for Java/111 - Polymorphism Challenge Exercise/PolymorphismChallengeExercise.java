@@ -1,3 +1,0 @@
-/*
-Polymorphism Challenge Exercise
-

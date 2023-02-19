@@ -1,3 +1,0 @@
-/*
-Important Tip Source Code
-

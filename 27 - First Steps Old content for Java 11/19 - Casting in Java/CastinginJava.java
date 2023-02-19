@@ -1,3 +1,0 @@
-/*
-Casting in Java
-

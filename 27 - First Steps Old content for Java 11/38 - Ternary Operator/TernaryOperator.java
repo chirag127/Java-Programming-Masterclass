@@ -1,3 +1,0 @@
-/*
-Ternary Operator
-

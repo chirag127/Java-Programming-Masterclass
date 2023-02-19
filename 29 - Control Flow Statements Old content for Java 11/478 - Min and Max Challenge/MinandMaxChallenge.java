@@ -1,3 +1,0 @@
-/*
-Min and Max Challenge
-

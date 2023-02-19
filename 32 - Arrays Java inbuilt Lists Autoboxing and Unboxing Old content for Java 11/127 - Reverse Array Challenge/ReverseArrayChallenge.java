@@ -1,3 +1,0 @@
-/*
-Reverse Array Challenge
-

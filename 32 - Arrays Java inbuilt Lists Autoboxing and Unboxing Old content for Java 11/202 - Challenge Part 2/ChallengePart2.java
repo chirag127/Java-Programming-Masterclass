@@ -1,3 +1,0 @@
-/*
-Challenge Part 2
-

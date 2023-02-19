@@ -1,3 +1,0 @@
-/*
-Seconds and Minutes Challenge
-

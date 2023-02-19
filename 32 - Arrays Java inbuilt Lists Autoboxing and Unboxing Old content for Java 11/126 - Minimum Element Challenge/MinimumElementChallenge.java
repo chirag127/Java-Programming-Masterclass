@@ -1,3 +1,0 @@
-/*
-Minimum Element Challenge
-

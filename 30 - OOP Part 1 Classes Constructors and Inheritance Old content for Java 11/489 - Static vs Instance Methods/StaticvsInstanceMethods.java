@@ -1,3 +1,0 @@
-/*
-Static vs Instance Methods
-
