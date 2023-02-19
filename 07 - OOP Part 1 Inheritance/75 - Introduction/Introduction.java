@@ -59,4 +59,16 @@
  *
  * In Java, we cannot extend more than one class, but we can implement more than one interface.
  *
- * 
+ *
+ */
+
+public class Introduction {
+    public static void main(String[] args) {
+        System.out.println("Introduction to Inheritance in Java");
+    }
+}
+
+/* Output
+Introduction to Inheritance in Java
+*/
+
