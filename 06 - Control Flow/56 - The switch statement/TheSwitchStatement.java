@@ -20,7 +20,7 @@
  * which we want to stop before getting to the last case.
  */
 
-public class SwitchStatement {
+public class TheSwitchStatement {
 
     public static void main(String[] args) {
         int value = 1;
@@ -96,4 +96,3 @@ public class SwitchStatement {
     }
 
 }
-
