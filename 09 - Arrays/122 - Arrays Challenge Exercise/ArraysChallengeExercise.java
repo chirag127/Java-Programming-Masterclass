@@ -1,3 +1,4 @@
-/*
-Arrays Challenge Exercise
-
+/**
+ * Arrays Challenge Exercise
+ *
+ * 
