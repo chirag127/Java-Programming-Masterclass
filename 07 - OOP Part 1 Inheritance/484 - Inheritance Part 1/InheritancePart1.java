@@ -1,3 +1,0 @@
-/*
-Inheritance Part 1
-

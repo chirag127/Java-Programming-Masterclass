@@ -1,12 +1,12 @@
-/** Inheritance Part 3
+/** Inheritance Part 2
  *
- * 1. Inheritance is a mechanism in which one class acquires the property of another class.
- * 2. Inheritance is used to achieve reusability and it is one of the fundamental concepts of OOP.
+ * In the previous video we discussed about inheritance and how it is used to achieve reusability.
+ * In this video we will discuss about the different types of inheritance.
  *
- * adding more attributes to the dog class.
+ * now we will make the attribute specific to dog.
  */
 
- public class InheritancePart3 {
+ public class InheritancePart2 {
 
      public class Animal {
 
@@ -57,12 +57,10 @@
      public class Dog extends Animal {
 
          private String breed;
-         private int age;
 
-         public Dog(String type, String size, double weight, String breed, int age) {
+         public Dog(String type, String size, double weight, String breed) {
              super(type, size, weight);
              this.breed = breed;
-             this.age = age;
          }
 
          public String getBreed() {
@@ -73,30 +71,21 @@
              this.breed = breed;
          }
 
-         public int getAge() {
-             return age;
-         }
-
-         public void setAge(int age) {
-             this.age = age;
-         }
-
-         public void bark() {
+         @Override
+         public void makeNoise() {
              System.out.println("Dog is barking");
          }
 
      }
 
      public static void main(String[] args) {
-         InheritancePart3 main = new InheritancePart3();
-         main.run();
-     }
-
-     private void run() {
-            Dog dog = new Dog("Animal", "Large", 100, "Bulldog", 1);
+         InheritancePart2 inheritancePart2 = new InheritancePart2();
+         Dog dog = inheritancePart2.new Dog("mammal", "medium", 20, "German Shepherd");
+         System.out.println(dog.getType());
+         System.out.println(dog.getSize());
+         System.out.println(dog.getWeight());
          System.out.println(dog.getBreed());
-         System.out.println(dog.getAge());
-         dog.bark();
+         dog.makeNoise();
      }
 
  }

@@ -31,7 +31,7 @@
  *
  */
 
- public class InheritanceChallengePart1 {
+ public class InheritanceChallengePart2 {
 
     public class Worker {
 
@@ -167,14 +167,14 @@
     }
 
     public static void main(String[] args) {
-        InheritanceChallengePart1 inheritanceChallengePart1 = new InheritanceChallengePart1();
-        InheritanceChallengePart1.SalariedEmployee salariedEmployee = inheritanceChallengePart1.new SalariedEmployee("John", "01/01/1990", "123", "01/01/2019", 100000);
+        InheritanceChallengePart2 inheritanceChallengePart1 = new InheritanceChallengePart2();
+        InheritanceChallengePart2.SalariedEmployee salariedEmployee = inheritanceChallengePart1.new SalariedEmployee("John", "01/01/1990", "123", "01/01/2019", 100000);
         System.out.println(salariedEmployee.getAnnualSalary());
         System.out.println(salariedEmployee.isRetired());
         salariedEmployee.retire();
         System.out.println(salariedEmployee.isRetired());
 
-        InheritanceChallengePart1.HourlyEmployee hourlyEmployee = inheritanceChallengePart1.new HourlyEmployee("John", "01/01/1990", "123", "01/01/2019", 100);
+        InheritanceChallengePart2.HourlyEmployee hourlyEmployee = inheritanceChallengePart1.new HourlyEmployee("John", "01/01/1990", "123", "01/01/2019", 100);
         System.out.println(hourlyEmployee.getDailyPay());
     }
 

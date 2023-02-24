@@ -1,3 +1,0 @@
-/*
-Transitive Dependencies
-

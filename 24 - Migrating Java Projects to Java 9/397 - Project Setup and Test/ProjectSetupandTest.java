@@ -1,3 +1,0 @@
-/*
-Project Setup and Test
-

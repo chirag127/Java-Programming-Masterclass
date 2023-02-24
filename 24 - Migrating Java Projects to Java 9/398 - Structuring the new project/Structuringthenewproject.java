@@ -1,3 +1,0 @@
-/*
-Structuring the new project
-
