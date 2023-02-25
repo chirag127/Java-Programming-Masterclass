@@ -52,3 +52,15 @@ public class Introduction {
         }
     }
 }
+
+
+
+/** Output
+ *
+ * 50
+ * 0
+ * 0
+ * 0
+ * 0
+ * 0
+ */

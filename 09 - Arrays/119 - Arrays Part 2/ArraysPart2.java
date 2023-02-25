@@ -51,3 +51,15 @@ public class ArraysPart2{
         }
     }
 }
+
+
+/** Output:
+ *
+ * 50
+ * 0
+ * 0
+ * 0
+ * 0
+ */
+
+ 

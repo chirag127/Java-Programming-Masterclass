@@ -78,3 +78,21 @@ public class UsingjavautilArrayssortfillcopyOf {
 
     }
 }
+
+
+/** Output
+ *
+ * Sorted Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ * Filled Array: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+ * Copied Array: [1, 2, 3, 4, 5]
+ * Copied Range Array: [3, 4, 5]
+ * Index of 5: 4
+ * Are the arrays equal? true
+ * Array as String: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ * Array as String: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+ * Array as List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ * Are the arrays equal? true
+ *
+ */
+
+ 

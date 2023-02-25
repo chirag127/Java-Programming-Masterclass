@@ -580,3 +580,15 @@ public class ArraysPart1 {
     }
 
 }
+
+
+/** Output
+ *
+ * first = 1
+ * length of array = 10
+ * last = 10
+ * first = 1
+ * length of array = 10
+ * 1 2 3 4 5
+ *
+ */
