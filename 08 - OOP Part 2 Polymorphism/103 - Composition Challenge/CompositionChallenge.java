@@ -1,3 +1,4 @@
-/*
-Composition Challenge
-
+/** Composition Challenge
+ *
+ * @author Chirag Singhal
+ */
